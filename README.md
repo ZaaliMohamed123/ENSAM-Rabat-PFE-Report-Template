@@ -67,7 +67,15 @@ PFE_report_template_ENSAM_Rabat/
 | 12 | Bibliography | IEEE format |
 | 13 | Annexes | Optional |
 
-## Prerequisites
+## Quick Start (Overleaf)
+
+Click to import directly into Overleaf:
+
+[https://www.overleaf.com/docs?snip_uri=https://github.com/ZaaliMohamed123/ENSAM-Rabat-PFE-Report-Template/archive/refs/heads/main.zip](https://www.overleaf.com/docs?snip_uri=https://github.com/ZaaliMohamed123/ENSAM-Rabat-PFE-Report-Template/archive/refs/heads/main.zip)
+
+**Note:** This template uses XeLaTeX with `minted` (Pygments) for code listings. Compilation requires Overleaf's paid subscription (standard plan or higher) because it needs **shell-escape** and extended compile time. Free Overleaf accounts may timeout. If you are on the free plan, compile locally instead (see below).
+
+## Prerequisites (Local Compilation)
 
 ```bash
 # TeXLive (full) or MikTeX with XeLaTeX

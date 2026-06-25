@@ -68,8 +68,7 @@ PFE_report_template_ENSAM_Rabat/
 | 13 | Annexes | Optional |
 
 ## Quick Start (Overleaf)
-
-Click to import directly into Overleaf:
+For Ptro/paid account, Click to import directly into Overleaf:
 
 [https://www.overleaf.com/docs?snip_uri=https://github.com/ZaaliMohamed123/ENSAM-Rabat-PFE-Report-Template/archive/refs/heads/main.zip](https://www.overleaf.com/docs?snip_uri=https://github.com/ZaaliMohamed123/ENSAM-Rabat-PFE-Report-Template/archive/refs/heads/main.zip)
 

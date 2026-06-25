@@ -1,0 +1,28 @@
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+*.nav
+*.snm
+*.vrb
+*.bak*
+*.lol
+
+# Keep main PDF
+*.pdf
+!main.pdf
+
+# Minted cache
+_minted-*/
+
+# OS files
+.DS_Store
+Thumbs.db

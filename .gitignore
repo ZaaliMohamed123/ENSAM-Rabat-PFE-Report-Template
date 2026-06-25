@@ -16,9 +16,10 @@
 *.bak*
 *.lol
 
-# Keep main PDF
+# Keep main PDF and example PDF
 *.pdf
 !main.pdf
+!example_*.pdf
 
 # Minted cache
 _minted-*/

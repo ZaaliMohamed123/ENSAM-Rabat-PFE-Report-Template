@@ -4,6 +4,8 @@ An official LaTeX template for End-of-Studies Project reports at the National Hi
 
 Based on the official [Guide de Rédaction des Mémoires PFE](school_docs/Guide_Redaction_Memoires_PFE.txt).
 
+An example completed report is included: [`example_zaali_mohamed_pfe_report.pdf`](example_zaali_mohamed_pfe_report.pdf) — a full report built with this template to serve as a reference.
+
 ## Features
 
 - **XeLaTeX + Times New Roman** — 12pt, 1.5 line spacing as required by the school guide.

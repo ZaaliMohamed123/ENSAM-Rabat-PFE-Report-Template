@@ -8,7 +8,7 @@ An example completed report is included: [`example_zaali_mohamed_pfe_report.pdf`
 
 ## Features
 
-- **XeLaTeX + Times New Roman** — 12pt, 1.5 line spacing as required by the school guide.
+- **XeLaTeX + Latin Modern Roman** — 12pt, 1.5 line spacing as required by the school guide.
 - **Polyglossia** — English, French, and Arabic support for trilingual abstracts.
 - **Minted** — Syntax-highlighted code listings with chapter.number numbering.
 - **Automatic cross-references** — Figures, tables, listings numbered per chapter (e.g., Figure 2.1).

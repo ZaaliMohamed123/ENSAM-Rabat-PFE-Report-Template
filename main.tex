@@ -21,9 +21,13 @@
 \setdefaultlanguage{english}
 \setotherlanguages{french,arabic}
 
-\setmainfont{Times New Roman}
-\newfontfamily\arabicfont[Script=Arabic]{Times New Roman}
-\newfontfamily\frenchfont{Times New Roman}
+% Font: Latin Modern Roman (default XeLaTeX). If Times New Roman is required,
+% replace with: \setmainfont{Times New Roman}
+\setmainfont{Latin Modern Roman}[
+	SmallCapsFont={Latin Modern Roman Caps},
+	SmallCapsFeatures={},
+]
+\newfontfamily\arabicfont[Script=Arabic]{Noto Naskh Arabic}
 
 % Reset itemize labels
 \setlist[itemize,1]{label=$\bullet$}

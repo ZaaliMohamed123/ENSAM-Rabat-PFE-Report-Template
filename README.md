@@ -33,11 +33,16 @@ PFE_report_template_ENSAM_Rabat/
 │   ├── abstract_en.tex       # English abstract
 │   ├── abstract_fr.tex       # French résumé
 │   ├── abstract_ar.tex       # Arabic ملخص
+│   ├── list_of_abbreviations.tex
 │   ├── general_introduction.tex
-│   ├── chapter1.tex          # Cadrage du Projet
-│   ├── chapter2.tex          # État de l'Art & Étude Théorique
-│   ├── chapter3.tex          # Conception & Architecture
-│   ├── chapter4.tex          # Réalisation & Analyse des Résultats
+│   ├── chapter1.tex          # \inputs from chapter1_sections/
+│   ├── chapter1_sections/    # introduction, host_organization, existing_system_analysis, objectives_planning, conclusion
+│   ├── chapter2.tex          # \inputs from chapter2_sections/
+│   ├── chapter2_sections/    # introduction, literature_review, benchmark, conclusion
+│   ├── chapter3.tex          # \inputs from chapter3_sections/
+│   ├── chapter3_sections/    # introduction, functional_modeling, system_architecture, data_architecture, model_architecture, conclusion
+│   ├── chapter4.tex          # \inputs from chapter4_sections/
+│   ├── chapter4_sections/    # introduction, technical_environment, implementation, interface, evaluation, conclusion
 │   ├── conclusion_perspectives.tex
 │   └── annexes.tex
 ├── images/                   # Place your figures here
